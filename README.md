@@ -10,4 +10,4 @@ In addition to the gitignore and license, this repository contains the following
 Windows and Mac users will need to run the Jupyter Notebook software in order to view the Jupyter Notebook (this may not be necessary in some linux distributions, such as Ubuntu). Users will also have to have Python 3.6 installed as well as the numpy, pyplot and pandas library.
 
 
-<font color = red>A copy of Graphs in Statistical Analysis by Anscombe was previously included in this repository but removed due to copyright concerns</font>
+<font color = red>Update 01 December 2018: A copy of Graphs in Statistical Analysis by Anscombe was previously included in this repository but removed due to copyright concerns</font>
